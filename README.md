@@ -29,12 +29,12 @@ In this part of the assignment, you are required to implement the MyHashTable cl
 ## Part 2.2: Enhancements for Binary Search Tree
 
 ### Instructions:
-1. **Add Size**:
+ **Add Size**:
    - Implement a method to calculate and return the size of the binary search tree.
    
-2. **Implement In-order Traversal for Iterator()**:
+ **Implement In-order Traversal for Iterator()**:
    - Modify the iterator to support in-order traversal of the binary search tree.
 
-3. **Accessibility of Key-Value Pairs during Iteration**:
+ **Accessibility of Key-Value Pairs during Iteration**:
    - Enhance the iterator to provide access to both key and value pairs during iteration.
 
